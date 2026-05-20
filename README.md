@@ -59,3 +59,15 @@ http://127.0.0.1:5000
 
 ## Screenshot
 ![Task Manager(screenshot.png)]
+
+📚 Learning Outcome
+This project helped me improve my understanding of:
+-CRUD operations (Create, Read, Update, Delete)
+-Flask backend development
+-SQLite database integration
+-Flask routing and request handling
+-HTML form handling
+-Dynamic data rendering using Jinja templates
+-Frontend and backend integration
+-Debugging and project structuring
+-Virtual environments and GitHub workflow
